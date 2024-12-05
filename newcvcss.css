@@ -1,0 +1,110 @@
+#box{
+    border: 2px solid black;
+    height: 850px;
+    width: 700px;
+    position: absolute;
+    left: 300px;
+    
+
+}
+.heading{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 10px 20px 10px 20px;
+}
+
+ 
+.item2{
+    position: absolute;
+    top: 60px;
+    left: 200px;
+    
+    font-size:xx-large;
+    
+
+}
+.item3{
+    list-style-type: none;
+    padding:0;
+    margin:0;
+    display: flex;
+    position: relative;
+    bottom: 10px;
+    
+
+}
+.item3 li{
+    margin: 15px;
+}
+.item1{
+    position: relative;
+    top: 5px;
+
+}
+.custom-line{
+    border: 0; 
+    height: 2px; /* Thickness of the line */ 
+    background-color: #000000; 
+   
+     margin: 20px 0; 
+     position: relative;
+     top: 40px;
+}
+h3{
+    color: green;
+    position: absolute;
+    left:20px;
+   
+}
+.edu{ position: absolute;
+    top:125px;
+    
+
+}
+.skill{
+    position: absolute;
+    top:300px;
+    
+}
+.project{
+    position: absolute;
+    top:450px;
+}
+.certifications{
+    position: absolute;
+    top: 590px;
+}
+.certificatelist{
+    list-style-type: disc;
+    position: absolute;
+    top: 640px;
+}
+#box2{
+    display:flex;
+    position: absolute;
+
+}
+.eduli {
+    list-style-type: disc;
+    position: absolute;
+    top:170px;
+
+}
+/*.line2{
+    border:0;
+    height: 2px;
+    background-color: #000000;
+    margin: 20px 0;
+}*/
+.skillist{
+    list-style-type: disc;
+    position: absolute;
+    top: 345px;
+}
+.projectlist{
+    list-style-type: disc;
+    position: absolute;
+    top: 500px;
+}
+
